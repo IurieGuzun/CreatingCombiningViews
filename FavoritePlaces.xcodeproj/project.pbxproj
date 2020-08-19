@@ -19,6 +19,7 @@
 		8AB6C55F24ED875A0034868D /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB6C55E24ED875A0034868D /* Data.swift */; };
 		8AB6C56324ED8AC70034868D /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 8AB6C56224ED8AC70034868D /* landmarkData.json */; };
 		8AB6C56724ED8E040034868D /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB6C56624ED8E040034868D /* LandmarkRow.swift */; };
+		8AB6C56924ED9C2B0034868D /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB6C56824ED9C2B0034868D /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		8AB6C55E24ED875A0034868D /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		8AB6C56224ED8AC70034868D /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		8AB6C56624ED8E040034868D /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
+		8AB6C56824ED9C2B0034868D /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				8A27B45024E6EB4600A08A7B /* SceneDelegate.swift */,
 				8A27B45224E6EB4600A08A7B /* LandmarkDetail.swift */,
 				8AB6C56624ED8E040034868D /* LandmarkRow.swift */,
+				8AB6C56824ED9C2B0034868D /* LandmarkList.swift */,
 				8A27B45424E6EB4900A08A7B /* Assets.xcassets */,
 				8A27B46224E6FD3200A08A7B /* CircleImage.swift */,
 				8A27B46424E70C0200A08A7B /* MapView.swift */,
@@ -169,6 +172,7 @@
 				8A27B44F24E6EB4600A08A7B /* AppDelegate.swift in Sources */,
 				8A27B46524E70C0200A08A7B /* MapView.swift in Sources */,
 				8A27B46324E6FD3200A08A7B /* CircleImage.swift in Sources */,
+				8AB6C56924ED9C2B0034868D /* LandmarkList.swift in Sources */,
 				8A27B45124E6EB4600A08A7B /* SceneDelegate.swift in Sources */,
 				8A27B45324E6EB4600A08A7B /* LandmarkDetail.swift in Sources */,
 				8AB6C56724ED8E040034868D /* LandmarkRow.swift in Sources */,
