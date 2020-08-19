@@ -9,7 +9,7 @@
 import SwiftUI
 import MapKit
 
-struct MapKit: UIViewRepresentable {
+struct MapView: UIViewRepresentable {
     func makeUIView(context: Context)  -> MKMapView  {
         MKMapView(frame: .zero)
     }
@@ -24,6 +24,6 @@ struct MapKit: UIViewRepresentable {
 
 struct MapKit_Previews: PreviewProvider {
     static var previews: some View {
-        MapKit()
+        MapView()
     }
 }

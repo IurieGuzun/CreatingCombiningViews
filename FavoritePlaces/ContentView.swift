@@ -11,7 +11,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            MapKit()
+            MapView()
                 .frame(height: 300)
                 .edgesIgnoringSafeArea(.top)
             CircleImage()
