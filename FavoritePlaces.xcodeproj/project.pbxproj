@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8A27B44B24E6EB4600A08A7B /* CreatingCombiningViews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CreatingCombiningViews.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A27B44B24E6EB4600A08A7B /* FavoritePlaces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FavoritePlaces.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A27B44E24E6EB4600A08A7B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8A27B45024E6EB4600A08A7B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		8A27B45224E6EB4600A08A7B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		8A27B44224E6EB4600A08A7B = {
 			isa = PBXGroup;
 			children = (
-				8A27B44D24E6EB4600A08A7B /* CreatingCombiningViews */,
+				8A27B44D24E6EB4600A08A7B /* FavoritePlaces */,
 				8A27B44C24E6EB4600A08A7B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,12 +52,12 @@
 		8A27B44C24E6EB4600A08A7B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8A27B44B24E6EB4600A08A7B /* CreatingCombiningViews.app */,
+				8A27B44B24E6EB4600A08A7B /* FavoritePlaces.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8A27B44D24E6EB4600A08A7B /* CreatingCombiningViews */ = {
+		8A27B44D24E6EB4600A08A7B /* FavoritePlaces */ = {
 			isa = PBXGroup;
 			children = (
 				8A27B44E24E6EB4600A08A7B /* AppDelegate.swift */,
@@ -70,7 +70,7 @@
 				8A27B45C24E6EB4900A08A7B /* Info.plist */,
 				8A27B45624E6EB4900A08A7B /* Preview Content */,
 			);
-			path = CreatingCombiningViews;
+			path = FavoritePlaces;
 			sourceTree = "<group>";
 		};
 		8A27B45624E6EB4900A08A7B /* Preview Content */ = {
@@ -84,9 +84,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8A27B44A24E6EB4600A08A7B /* CreatingCombiningViews */ = {
+		8A27B44A24E6EB4600A08A7B /* FavoritePlaces */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8A27B45F24E6EB4900A08A7B /* Build configuration list for PBXNativeTarget "CreatingCombiningViews" */;
+			buildConfigurationList = 8A27B45F24E6EB4900A08A7B /* Build configuration list for PBXNativeTarget "FavoritePlaces" */;
 			buildPhases = (
 				8A27B44724E6EB4600A08A7B /* Sources */,
 				8A27B44824E6EB4600A08A7B /* Frameworks */,
@@ -96,9 +96,9 @@
 			);
 			dependencies = (
 			);
-			name = CreatingCombiningViews;
+			name = FavoritePlaces;
 			productName = CreatingCombiningViews;
-			productReference = 8A27B44B24E6EB4600A08A7B /* CreatingCombiningViews.app */;
+			productReference = 8A27B44B24E6EB4600A08A7B /* FavoritePlaces.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -116,7 +116,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8A27B44624E6EB4600A08A7B /* Build configuration list for PBXProject "CreatingCombiningViews" */;
+			buildConfigurationList = 8A27B44624E6EB4600A08A7B /* Build configuration list for PBXProject "FavoritePlaces" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -129,7 +129,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8A27B44A24E6EB4600A08A7B /* CreatingCombiningViews */,
+				8A27B44A24E6EB4600A08A7B /* FavoritePlaces */,
 			);
 		};
 /* End PBXProject section */
@@ -224,7 +224,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -278,7 +278,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -293,15 +293,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"CreatingCombiningViews/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"FavoritePlaces/Preview Content\"";
 				DEVELOPMENT_TEAM = JKMGXM83KA;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = CreatingCombiningViews/Info.plist;
+				INFOPLIST_FILE = FavoritePlaces/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.IurieGuzun.CreatingCombiningViews;
+				PRODUCT_BUNDLE_IDENTIFIER = com.IurieGuzun.FavoritePlaces;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -313,15 +313,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"CreatingCombiningViews/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"FavoritePlaces/Preview Content\"";
 				DEVELOPMENT_TEAM = JKMGXM83KA;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = CreatingCombiningViews/Info.plist;
+				INFOPLIST_FILE = FavoritePlaces/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.IurieGuzun.CreatingCombiningViews;
+				PRODUCT_BUNDLE_IDENTIFIER = com.IurieGuzun.FavoritePlaces;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -331,7 +331,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8A27B44624E6EB4600A08A7B /* Build configuration list for PBXProject "CreatingCombiningViews" */ = {
+		8A27B44624E6EB4600A08A7B /* Build configuration list for PBXProject "FavoritePlaces" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8A27B45D24E6EB4900A08A7B /* Debug */,
@@ -340,7 +340,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8A27B45F24E6EB4900A08A7B /* Build configuration list for PBXNativeTarget "CreatingCombiningViews" */ = {
+		8A27B45F24E6EB4900A08A7B /* Build configuration list for PBXNativeTarget "FavoritePlaces" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8A27B46024E6EB4900A08A7B /* Debug */,
