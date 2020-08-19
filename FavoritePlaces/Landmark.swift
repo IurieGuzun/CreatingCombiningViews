@@ -6,7 +6,7 @@
 //  Copyright © 2020 Iurie Guzun. All rights reserved.
 //
 
-import Foundation
+import SwiftUI
 import CoreLocation
 
 struct Landmark: Hashable, Codable, Identifiable {
