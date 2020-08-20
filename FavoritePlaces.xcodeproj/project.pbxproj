@@ -32,6 +32,7 @@
 		8AB6C58024EDB0C30034868D /* lakemcdonald.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8AB6C57524EDB0C30034868D /* lakemcdonald.jpg */; };
 		8AB6C58124EDB0C30034868D /* rainbowlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8AB6C57624EDB0C30034868D /* rainbowlake.jpg */; };
 		8AB6C58224EDB0C30034868D /* chilkoottrail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8AB6C57724EDB0C30034868D /* chilkoottrail.jpg */; };
+		8AB6C58424EF311C0034868D /* 60.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8AB6C58324EF311C0034868D /* 60.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,7 @@
 		8AB6C57524EDB0C30034868D /* lakemcdonald.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lakemcdonald.jpg; sourceTree = "<group>"; };
 		8AB6C57624EDB0C30034868D /* rainbowlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rainbowlake.jpg; sourceTree = "<group>"; };
 		8AB6C57724EDB0C30034868D /* chilkoottrail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chilkoottrail.jpg; sourceTree = "<group>"; };
+		8AB6C58324EF311C0034868D /* 60.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 60.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 			children = (
 				8AB6C57724EDB0C30034868D /* chilkoottrail.jpg */,
 				8AB6C56F24EDB0C10034868D /* chincoteague.jpg */,
+				8AB6C58324EF311C0034868D /* 60.jpg */,
 				8AB6C57124EDB0C20034868D /* hiddenlake.jpg */,
 				8AB6C57024EDB0C10034868D /* icybay.jpg */,
 				8AB6C57524EDB0C30034868D /* lakemcdonald.jpg */,
@@ -207,6 +210,7 @@
 				8A27B45824E6EB4900A08A7B /* Preview Assets.xcassets in Resources */,
 				8A27B45524E6EB4900A08A7B /* Assets.xcassets in Resources */,
 				8AB6C57A24EDB0C30034868D /* chincoteague.jpg in Resources */,
+				8AB6C58424EF311C0034868D /* 60.jpg in Resources */,
 				8AB6C58224EDB0C30034868D /* chilkoottrail.jpg in Resources */,
 				8AB6C57B24EDB0C30034868D /* icybay.jpg in Resources */,
 				8AB6C57C24EDB0C30034868D /* hiddenlake.jpg in Resources */,

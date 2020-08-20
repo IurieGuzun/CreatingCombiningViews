@@ -16,7 +16,7 @@ struct LandmarkList: View {
         LandmarkRow(landmark: landmark)
         }
        }
-        .navigationBarTitle(Text("Favorite Places"))
+        .navigationBarTitle(Text("My Favorite Places"))
        }
     }
 }

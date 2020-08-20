@@ -34,6 +34,7 @@ struct LandmarkDetail: View {
           //      Spacer()
          MapView(coordinate: landmark.locationCoordinate)                        .edgesIgnoringSafeArea(.top)
                 .frame(height: 300)
+ //     CircleImage(image: "60.jpg")
               }
            }
         }
