@@ -14,7 +14,8 @@ struct Landmark: Hashable, Codable, Identifiable {
     var name: String
 //    fileprivate var imageName: String
     var imageName: String
-    fileprivate var coordinates: Coordinates
+//    fileprivate var coordinates: Coordinates
+    var coordinates: Coordinates
     var state: String
     var park: String
     var category: Category
@@ -41,4 +42,10 @@ extension Landmark {
 struct Coordinates: Hashable, Codable {
     var latitude: Double
     var longitude: Double
+}
+
+struct Landmark_Previews: PreviewProvider {
+    static var previews: some View {
+        /*@START_MENU_TOKEN@*/Text("Hello, World!")/*@END_MENU_TOKEN@*/
+    }
 }
