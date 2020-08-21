@@ -65,17 +65,43 @@
            "imageName": "Roma"
        },
     {
+    "name": "Statue of Liberty",
+        "category": "Featured",
+        "city": "New York",
+        "state": "United States of America",
+        "id": 1017,
+        "park": "New York",
+        "coordinates": {
+            "longitude": -74.044502,
+            "latitude": 40.689247
+        },
+        "imageName": "Liberty"
+    },
+    {
     "name": "Acropolis",
         "category": "Featured",
         "city": "Athens",
         "state": "Greece",
-        "id": 1017,
+        "id": 1018,
         "park": "Athens",
         "coordinates": {
             "longitude": 23.733333300000027,
             "latitude": 37.9666667
         },
         "imageName": "Greece"
+    },
+    {
+    "name": "Museo Histórico",
+        "category": "Featured",
+        "city": "Santa Clara",
+        "state": "Cuba",
+        "id": 1019,
+        "park": "Santa Clara",
+        "coordinates": {
+            "longitude": -79.9794,
+            "latitude": 22.4026
+        },
+        "imageName": "Cuba"
     },
     {
         "name": "Silver Salmon Creek",
