@@ -1,16 +1,29 @@
 [
     {
-        "name": "Turtle Rock",
+        "name": "Parlament Hill",
         "category": "Featured",
         "city": "Twentynine Palms",
-        "state": "California",
+        "state": "Canada",
         "id": 1001,
-        "park": "Joshua Tree National Park",
+        "park": "Ottawa",
         "coordinates": {
-            "longitude": -116.166868,
-            "latitude": 34.011286
+            "longitude": -75.6992,
+            "latitude": 45.4248
         },
-        "imageName": "turtlerock"
+        "imageName": "Parlament"
+    },
+    {
+        "name": "Parlament Hill",
+        "category": "Featured",
+        "city": "Twentynine Palms",
+        "state": "Canada",
+        "id": 1001,
+        "park": "Ottawa",
+        "coordinates": {
+            "longitude": -75.6992,
+            "latitude": 45.4248
+        },
+        "imageName": "Parlament"
     },
     {
         "name": "Silver Salmon Creek",
