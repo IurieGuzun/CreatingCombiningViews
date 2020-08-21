@@ -34,6 +34,11 @@
 		8AB6C58224EDB0C30034868D /* chilkoottrail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8AB6C57724EDB0C30034868D /* chilkoottrail.jpg */; };
 		8AB6C58424EF311C0034868D /* 60.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8AB6C58324EF311C0034868D /* 60.jpg */; };
 		8AB6C58824F0178A0034868D /* Parlament.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8AB6C58724F0178A0034868D /* Parlament.jpg */; };
+		8AB6C58A24F01C600034868D /* NotreDame.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8AB6C58924F01C600034868D /* NotreDame.jpg */; };
+		8AB6C58C24F0287B0034868D /* BigBen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8AB6C58B24F0287B0034868D /* BigBen.jpg */; };
+		8AB6C58E24F02C900034868D /* Niagara.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8AB6C58D24F02C900034868D /* Niagara.jpg */; };
+		8AB6C59024F038590034868D /* Greece.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8AB6C58F24F038590034868D /* Greece.jpg */; };
+		8AB6C59424F03BEA0034868D /* Roma.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8AB6C59324F03BEA0034868D /* Roma.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,6 +71,11 @@
 		8AB6C57724EDB0C30034868D /* chilkoottrail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chilkoottrail.jpg; sourceTree = "<group>"; };
 		8AB6C58324EF311C0034868D /* 60.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 60.jpg; sourceTree = "<group>"; };
 		8AB6C58724F0178A0034868D /* Parlament.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Parlament.jpg; sourceTree = "<group>"; };
+		8AB6C58924F01C600034868D /* NotreDame.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = NotreDame.jpg; sourceTree = "<group>"; };
+		8AB6C58B24F0287B0034868D /* BigBen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BigBen.jpg; sourceTree = "<group>"; };
+		8AB6C58D24F02C900034868D /* Niagara.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Niagara.jpg; sourceTree = "<group>"; };
+		8AB6C58F24F038590034868D /* Greece.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Greece.jpg; sourceTree = "<group>"; };
+		8AB6C59324F03BEA0034868D /* Roma.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Roma.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,10 +142,15 @@
 				8AB6C58724F0178A0034868D /* Parlament.jpg */,
 				8AB6C56F24EDB0C10034868D /* chincoteague.jpg */,
 				8AB6C58324EF311C0034868D /* 60.jpg */,
+				8AB6C58D24F02C900034868D /* Niagara.jpg */,
+				8AB6C58F24F038590034868D /* Greece.jpg */,
 				8AB6C57124EDB0C20034868D /* hiddenlake.jpg */,
 				8AB6C57024EDB0C10034868D /* icybay.jpg */,
 				8AB6C57524EDB0C30034868D /* lakemcdonald.jpg */,
+				8AB6C58924F01C600034868D /* NotreDame.jpg */,
+				8AB6C59324F03BEA0034868D /* Roma.jpg */,
 				8AB6C57624EDB0C30034868D /* rainbowlake.jpg */,
+				8AB6C58B24F0287B0034868D /* BigBen.jpg */,
 				8AB6C57324EDB0C30034868D /* silversalmoncreek.jpg */,
 				8AB6C57224EDB0C20034868D /* stmarylake.jpg */,
 				8AB6C56D24EDB0C10034868D /* twinlake.jpg */,
@@ -207,6 +222,8 @@
 				8AB6C58024EDB0C30034868D /* lakemcdonald.jpg in Resources */,
 				8AB6C58124EDB0C30034868D /* rainbowlake.jpg in Resources */,
 				8AB6C57824EDB0C30034868D /* twinlake.jpg in Resources */,
+				8AB6C58E24F02C900034868D /* Niagara.jpg in Resources */,
+				8AB6C59024F038590034868D /* Greece.jpg in Resources */,
 				8A27B45B24E6EB4900A08A7B /* LaunchScreen.storyboard in Resources */,
 				8AB6C57924EDB0C30034868D /* umbagog.jpg in Resources */,
 				8AB6C56324ED8AC70034868D /* landmarkData.json in Resources */,
@@ -216,12 +233,15 @@
 				8AB6C57A24EDB0C30034868D /* chincoteague.jpg in Resources */,
 				8AB6C58424EF311C0034868D /* 60.jpg in Resources */,
 				8AB6C58224EDB0C30034868D /* chilkoottrail.jpg in Resources */,
+				8AB6C58C24F0287B0034868D /* BigBen.jpg in Resources */,
 				8AB6C57B24EDB0C30034868D /* icybay.jpg in Resources */,
 				8AB6C57C24EDB0C30034868D /* hiddenlake.jpg in Resources */,
 				8AB6C57E24EDB0C30034868D /* silversalmoncreek.jpg in Resources */,
 				8AB6C57D24EDB0C30034868D /* stmarylake.jpg in Resources */,
 				8AB6C56C24EDA7290034868D /* turtlerock.jpg in Resources */,
+				8AB6C59424F03BEA0034868D /* Roma.jpg in Resources */,
 				8AB6C57F24EDB0C30034868D /* yukon_charleyrivers.jpg in Resources */,
+				8AB6C58A24F01C600034868D /* NotreDame.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

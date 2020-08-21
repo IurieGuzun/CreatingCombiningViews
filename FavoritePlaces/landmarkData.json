@@ -1,10 +1,23 @@
 [
     {
+        "name": "Notre-Dame de Paris",
+        "category": "Featured",
+        "city": "Paris",
+        "state": "France",
+        "id": 1001,
+        "park": "Paris",
+        "coordinates": {
+            "longitude": 2.350699,
+            "latitude": 48.852737
+        },
+        "imageName": "NotreDame"
+    },
+    {
         "name": "Parlament Hill",
         "category": "Featured",
         "city": "Twentynine Palms",
         "state": "Canada",
-        "id": 1001,
+        "id": 1013,
         "park": "Ottawa",
         "coordinates": {
             "longitude": -75.6992,
@@ -13,17 +26,56 @@
         "imageName": "Parlament"
     },
     {
-        "name": "Parlament Hill",
+           "name": "Waterfall",
+           "category": "Featured",
+           "city": "Niagara Falls",
+           "state": "Canada",
+           "id": 1014,
+           "park": "Niagara Falls",
+           "coordinates": {
+               "longitude": -79.06627,
+               "latitude": 43.10012
+           },
+           "imageName": "Niagara"
+       },
+    {
+    "name": "Big Ben",
+           "category": "Featured",
+           "city": "London",
+           "state": "United Kingdom",
+           "id": 1015,
+           "park": "London",
+           "coordinates": {
+               "longitude": -0.116773,
+               "latitude": 51.510357
+           },
+           "imageName": "BigBen"
+       },
+    {
+       "name": "St. Peter's Square",
+           "category": "Featured",
+           "city": "Rome",
+           "state": "Italy",
+           "id": 1016,
+           "park": "Rome",
+           "coordinates": {
+               "longitude": 12.453937,
+               "latitude": 41.902168
+           },
+           "imageName": "Roma"
+       },
+    {
+    "name": "Acropolis",
         "category": "Featured",
-        "city": "Twentynine Palms",
-        "state": "Canada",
-        "id": 1001,
-        "park": "Ottawa",
+        "city": "Athens",
+        "state": "Greece",
+        "id": 1017,
+        "park": "Athens",
         "coordinates": {
-            "longitude": -75.6992,
-            "latitude": 45.4248
+            "longitude": 23.733333300000027,
+            "latitude": 37.9666667
         },
-        "imageName": "Parlament"
+        "imageName": "Greece"
     },
     {
         "name": "Silver Salmon Creek",
